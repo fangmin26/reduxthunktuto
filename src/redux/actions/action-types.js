@@ -1,0 +1,5 @@
+export const ActionTypes = {
+
+  FETCH_PATIENTS: "FETCH_PATIENTS",
+TARGET_PATIENT: "TARGET_PATIENT"
+};
